@@ -1,0 +1,32 @@
+https://dsmjs.com/
+https://www.meetup.com/wordpressdsm/?_cookie-check=kZ4s49VIkdEzFZOR
+https://dsmfrontend.github.io/
+https://github.com/jlevy/the-art-of-command-line#readme
+https://www.youtube.com/playlist?list=PLT98CRl2KxKHaKA9-4_I38sLzK134p4GJ
+https://www.youtube.com/channel/UCyIe-61Y8C4_o-zZCtO4ETQ
+https://alligator.io/
+
+Composition and interfaces
+coursera
+
+websites to build
+https://flashcards.github.io/command_line/introduction.html
+http://www.dontfeartheinternet.com/02-html/
+
+**https://developer.mozilla.org/en-US/docs/Web/HTML/Element**
+	Study this page
+
+
+view several recipe websites and compare and design a website that is awesome
+
+CSS Legal Color Values
+Hexadecimal colors
+Hexadecimal colors with transparency
+RGB colors
+RGBA colors
+HSL colors
+HSLA colors
+Predefined/Cross-browser color names
+With the currentcolor keyword
+
+https://github.com/TheOdinProject - complete these expercises
